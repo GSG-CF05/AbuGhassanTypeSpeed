@@ -17,7 +17,7 @@ This is a simple type speed game.
 - Enjoy!
 
 ## Usage
-- Click the start button to start the game.
+- Click any button to start the game.
 - Type the text in the text box.
 - You will see the correct text in the text box.
 
