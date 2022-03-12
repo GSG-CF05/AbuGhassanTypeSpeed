@@ -23,7 +23,7 @@ This is a simple type speed game.
 
 ## Team Members
 - [AbuGhassan](https://github.com/MohammedAbuSamra)
-- [My heart]
+- [MyHeart]
 
 ## Tips
 - Try to type the text as fast as you can.
